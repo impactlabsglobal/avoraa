@@ -4,7 +4,7 @@
 
 ## Live preview
 
-[Open the Avoraa Fit demo storefront](https://htmlpreview.github.io/?https://raw.githubusercontent.com/impactlabsglobal/avoraa/ccd9743cc762d627254c0141cd88bd2b3f5619eb/index.html)
+[Open the Avoraa Fit demo storefront](https://htmlpreview.github.io/?https://raw.githubusercontent.com/impactlabsglobal/avoraa/341178a42f3472d2282b01de16a7f9079d4f97cb/index.html)
 
 Designed to be reviewed on iPhone, iPad, and desktop.
 
