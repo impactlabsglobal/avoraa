@@ -4,7 +4,7 @@ Storefront mobile-first para Avoraa Fit.
 
 ## Ver el portal
 
-Abre el [portal público de Avoraa Fit](https://cdn.jsdelivr.net/gh/impactlabsglobal/avoraa@903faeeb6911541851c25681c941bb9c93b77b97/index.html) desde iPhone, iPad o computadora.
+Abre el [portal público de Avoraa Fit](https://htmlpreview.github.io/?https://raw.githubusercontent.com/impactlabsglobal/avoraa/38e00556a244ada343dd89e3f848e31567754973/index.html) desde iPhone, iPad o computadora.
 
 ## Incluye
 
