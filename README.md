@@ -1,30 +1,51 @@
-# Avoraa Fit
+# Avoraa Fit — Storefront Demo
 
-Storefront mobile-first para Avoraa Fit.
+> **Demo / non-production version.** This project is a visual storefront preview for Avoraa Fit. It does not process payments, store card details, manage inventory, or create real orders.
 
-## Ver el portal
+## Live preview
 
-Abre el [portal público de Avoraa Fit](https://htmlpreview.github.io/?https://raw.githubusercontent.com/impactlabsglobal/avoraa/38e00556a244ada343dd89e3f848e31567754973/index.html) desde iPhone, iPad o computadora.
+[Open the Avoraa Fit demo storefront](https://htmlpreview.github.io/?https://raw.githubusercontent.com/impactlabsglobal/avoraa/12bc820939715e11a50fb04d5aa0029b0fc8856d/index.html)
 
-## Incluye
+Designed to be reviewed on iPhone, iPad, and desktop.
 
-- Catálogo de 6 productos responsive.
-- Selección de producto, talla y carrito.
-- Checkout visual de demostración con tarjeta falsa y confirmación de pedido.
-- Checkout de preview y contacto por WhatsApp.
-- Panel del dueño para agregar productos y promociones.
-- Diseño adaptado para móvil, iPad y Mac.
+## Overview
 
-## Marca
+Avoraa Fit is a mobile-first activewear storefront concept. The experience is intentionally simple: customers select a product, choose a size, review their bag, and continue through a complete visual checkout demonstration.
 
-- [Instagram @avoraa.fit](https://instagram.com/avoraa.fit)
-- [Sitio avoraa.fit](https://avoraa.fit)
+## Demo experience
 
-## Próximos pasos
+- Six responsive activewear product cards.
+- Product and size selection.
+- Shopping bag with subtotal, shipping, total, and Avoraa points.
+- Card checkout screen using placeholder information only.
+- Demo order confirmation screen.
+- Instagram and contact links in the footer.
+- Owner-panel concept for adding products and promotion codes.
 
-1. Conectar autenticación real para el panel del dueño.
-2. Guardar productos y promociones en una base de datos.
-3. Integrar Square para pagos dentro de la página.
-4. Publicar la versión final en `avoraa.fit`.
+## Important payment notice
 
-> El checkout actual es una demostración visual. No procesa pagos ni guarda datos. No agregues credenciales de pago reales hasta conectar Square.
+The checkout form is a visual prototype only.
+
+- Do not enter real card, address, or payment information.
+- No payment is sent to Square, Stripe, WhatsApp, or any other provider.
+- No customer information is stored.
+- “Pay” actions show a demo confirmation only.
+
+## Planned production integration
+
+Before launch, the project can be extended with:
+
+1. Secure Square payment integration.
+2. Product, inventory, and promotion-code database.
+3. Password-protected owner dashboard.
+4. Real order notifications and fulfillment workflow.
+5. Connection to the final `avoraa.fit` domain.
+
+## Brand links
+
+- [Avoraa Fit on Instagram](https://instagram.com/avoraa.fit)
+- [avoraa.fit](https://avoraa.fit)
+
+---
+
+© 2026 Avoraa Fit. Demo concept for review purposes.
