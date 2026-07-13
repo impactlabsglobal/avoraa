@@ -4,7 +4,7 @@
 
 ## Live preview
 
-[Open the Avoraa Fit demo storefront](https://htmlpreview.github.io/?https://raw.githubusercontent.com/impactlabsglobal/avoraa/42d71235c59b859652b39c009e1920fd50ee5b8c/index.html)
+[Open the Avoraa Fit demo storefront](https://htmlpreview.github.io/?https://raw.githubusercontent.com/impactlabsglobal/avoraa/main/index.html)
 
 Designed to be reviewed on iPhone, iPad, and desktop.
 
@@ -19,15 +19,17 @@ Avoraa Fit is a mobile-first activewear storefront concept. The experience is in
 - Shopping bag with subtotal, shipping, total, and Avoraa points.
 - Card checkout screen using placeholder information only.
 - Demo order confirmation screen.
+- Cash App, Zelle, WhatsApp, and Stripe payment method placeholders.
+- Shippo shipping-rate example for Economy, Standard, and Express service.
 - Instagram and contact links in the footer.
-- Owner-panel concept for adding products and promotion codes.
+- Owner panel demo for adding products, uploading a photo, setting inventory, and viewing active products.
 
 ## Important payment notice
 
 The checkout form is a visual prototype only.
 
 - Do not enter real card, address, or payment information.
-- No payment is sent to Square, Stripe, WhatsApp, or any other provider.
+- No payment is sent to Cash App, Zelle, Stripe, WhatsApp, Shippo, or any other provider.
 - No customer information is stored.
 - “Pay” actions show a demo confirmation only.
 
@@ -35,11 +37,12 @@ The checkout form is a visual prototype only.
 
 Before launch, the project can be extended with:
 
-1. Secure Square payment integration.
-2. Product, inventory, and promotion-code database.
-3. Password-protected owner dashboard.
-4. Real order notifications and fulfillment workflow.
-5. Connection to the final `avoraa.fit` domain.
+1. Secure Cash App Pay or Stripe payment integration.
+2. Zelle QR and Cash App business payment configuration.
+3. Product, inventory, order, and promotion-code database.
+4. Password-protected owner dashboard with sales and fulfillment views.
+5. Shippo API for live rates, labels, printing, and tracking.
+6. Connection to the final `avoraa.fit` domain.
 
 ## Brand links
 
