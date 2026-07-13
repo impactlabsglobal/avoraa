@@ -10,6 +10,7 @@ Abre el [portal público de Avoraa Fit](https://cdn.jsdelivr.net/gh/impactlabsgl
 
 - Catálogo de 6 productos responsive.
 - Selección de producto, talla y carrito.
+- Checkout visual de demostración con tarjeta falsa y confirmación de pedido.
 - Checkout de preview y contacto por WhatsApp.
 - Panel del dueño para agregar productos y promociones.
 - Diseño adaptado para móvil, iPad y Mac.
@@ -26,4 +27,4 @@ Abre el [portal público de Avoraa Fit](https://cdn.jsdelivr.net/gh/impactlabsgl
 3. Integrar Square para pagos dentro de la página.
 4. Publicar la versión final en `avoraa.fit`.
 
-> El checkout actual es una previsualización. No agregues credenciales de pago reales hasta conectar Square.
+> El checkout actual es una demostración visual. No procesa pagos ni guarda datos. No agregues credenciales de pago reales hasta conectar Square.
