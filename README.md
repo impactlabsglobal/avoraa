@@ -1,40 +1,29 @@
 # Avoraa Fit
 
-Storefront web para Avoraa Fit: leggings y ropa deportiva femenina con una experiencia de compra simple y mobile-first.
+Storefront mobile-first para Avoraa Fit.
 
-## Preview local
+## Ver el portal
 
-```bash
-npm install
-npm run dev
-```
-
-Abre [http://localhost:3000](http://localhost:3000).
-
-Para probarlo desde un iPhone en la misma red Wi-Fi, usa la dirección local que muestre el servidor de desarrollo.
+Abre el [portal público de Avoraa Fit](https://cdn.jsdelivr.net/gh/impactlabsglobal/avoraa@903faeeb6911541851c25681c941bb9c93b77b97/index.html) desde iPhone, iPad o computadora.
 
 ## Incluye
 
-- Catálogo de 6 productos en tarjetas responsive.
-- Flujo de selección de producto, talla y carrito.
-- Resumen de subtotal, shipping y puntos Avoraa.
-- Checkout de preview por WhatsApp.
-- Panel `Owner` para agregar productos.
-- Creación de códigos promocionales.
-- Footer con enlaces de Instagram, WhatsApp y TikTok.
+- Catálogo de 6 productos responsive.
+- Selección de producto, talla y carrito.
+- Checkout de preview y contacto por WhatsApp.
+- Panel del dueño para agregar productos y promociones.
 - Diseño adaptado para móvil, iPad y Mac.
 
-## Marca y enlaces
+## Marca
 
-- Sitio: [avoraa.fit](https://avoraa.fit)
-- Instagram: [@avoraa.fit](https://instagram.com/avoraa.fit)
-- Repositorio: [github.com/impactlabsglobal/avoraa](https://github.com/impactlabsglobal/avoraa)
+- [Instagram @avoraa.fit](https://instagram.com/avoraa.fit)
+- [Sitio avoraa.fit](https://avoraa.fit)
 
 ## Próximos pasos
 
-1. Conectar autenticación real para el panel Owner.
+1. Conectar autenticación real para el panel del dueño.
 2. Guardar productos y promociones en una base de datos.
 3. Integrar Square para pagos dentro de la página.
 4. Publicar la versión final en `avoraa.fit`.
 
-> El checkout actual es una previsualización. No agregues credenciales o datos de pago reales hasta conectar Square.
+> El checkout actual es una previsualización. No agregues credenciales de pago reales hasta conectar Square.
